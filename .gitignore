@@ -1,0 +1,10 @@
+junk/
+opus.1.5.2/
+.vscode/
+appx.exe
+appx.exe.manifest
+appx.obj
+appx.pdb
+vc140.pdb
+myCert.cer
+myCert.pfx
